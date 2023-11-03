@@ -28,7 +28,6 @@ https://bit.ly/Installer_VB6
 <br>
 
 ## Highlights
-## Sorotan
 <table>
 <tr>
 <th width="420">Home</th>
