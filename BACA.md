@@ -4,7 +4,8 @@
 ![VBA](https://img.shields.io/badge/visual-basic6-blue.svg?&style=flat&logo=VB6&logoColor=%23F7DF1E)
 
 # Aplikasi-Penghitung-Luas-Bangun-Datar-VB6
-Tugas Pemrograman API - Aplikasi Penghitung Luas Bangun Datar.
+<strong>Tugas Pemrograman API</strong><br>
+Aplikasi Penghitung Luas Bangun Datar.
 
 <br>
 
