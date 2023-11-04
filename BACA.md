@@ -26,8 +26,8 @@ https://bit.ly/Installer_VB6
 ## Menjalankan
 1.Unduh repositori ini.<br>
 2.Ekstrak file.<br>
-3.Buka direktori "Kelompok1_DevanCakraMW_18081010013".<br>
-4.Klik "Aplikasi Penghitung Luas Bangun Datar By Devan (18081010013)_original.exe" untuk menjalankan program aplikasi.<br>
+3.Buka direktori ``` Kelompok1_DevanCakraMW_18081010013 ```.<br>
+4.Klik ``` Aplikasi Penghitung Luas Bangun Datar By Devan (18081010013)_original.exe ``` untuk menjalankan program aplikasi.<br>
 5.Selamat menikmati [Selesai].
 
 <br>
