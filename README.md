@@ -24,7 +24,7 @@ https://bit.ly/Installer_VB6
 
 <br>
 
-## Running
+## Get Started
 1. Download this repository.<br>
 2. Extract the file.<br>
 3. Open the directory ``` Kelompok1_DevanCakraMW_18081010013 ```.<br>
