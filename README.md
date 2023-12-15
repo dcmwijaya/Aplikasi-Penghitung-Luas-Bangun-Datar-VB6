@@ -14,6 +14,7 @@ Flat Building Area Calculator Application.
 | --- | --- |
 | Features | Computation, Validation |
 | Tools | Visual Basic 6.0 Enterprise |
+| Operation System | Windows 10 |
 
 <br>
 
