@@ -9,7 +9,7 @@ Flat Building Area Calculator Application.
 
 <br>
 
-## Features / Framework / Tools
+## Project Requirements
 | Part | Description |
 | --- | --- |
 | Features | Computation, Validation |
