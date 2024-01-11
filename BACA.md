@@ -9,7 +9,7 @@ Aplikasi Penghitung Luas Bangun Datar.
 
 <br>
 
-## Fitur / Kerangka Kerja / Peralatan
+## Kebutuhan Proyek
 | Bagian | Deskripsi |
 | --- | --- |
 | Fitur | Komputasi, Validasi |
