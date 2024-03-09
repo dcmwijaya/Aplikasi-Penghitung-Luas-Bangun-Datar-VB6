@@ -19,9 +19,14 @@ Flat Building Area Calculator Application.
 <br>
 
 ## Download & Install Visual Basic 6.0 Enterprise
+
+<table><tr><td width="840">
+  
 ```
 https://bit.ly/Installer_MS_VB6
 ```
+
+</td></tr></table>
 
 <br>
 
