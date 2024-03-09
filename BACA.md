@@ -19,9 +19,13 @@ Aplikasi Penghitung Luas Bangun Datar.
 <br>
 
 ## Unduh & Instal Visual Basic 6.0 Enterprise
-```bash
+<table><tr><td width="840">
+  
+```
 https://bit.ly/Installer_MS_VB6
 ```
+
+</td></tr></table>
 
 <br>
 
@@ -57,6 +61,11 @@ https://bit.ly/Installer_MS_VB6
 <td><img src="https://github.com/devancakra/Aplikasi-Penghitung-Luas-Bangun-Datar-VB6/assets/54527592/15af89db-ab31-484d-978a-f8458bd88c35" alt="half-circle"></td>
 </tr>
 </table>
+
+<br>
+
+## Apresiasi
+Jika anda merasa karya ini bermanfaat, dukunglah karya ini sebagai bentuk apresiasi kepada penulis dengan cara mengeklik tombol ``` ⭐Bintang ```.
 
 <br>
 
