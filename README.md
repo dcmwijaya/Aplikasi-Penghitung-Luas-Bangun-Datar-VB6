@@ -19,7 +19,7 @@ Flat Building Area Calculator Application.
 <br>
 
 ## Download & Install Visual Basic 6.0 Enterprise
-```bash
+```
 https://bit.ly/Installer_MS_VB6
 ```
 
@@ -57,6 +57,11 @@ https://bit.ly/Installer_MS_VB6
 <td><img src="https://github.com/devancakra/Aplikasi-Penghitung-Luas-Bangun-Datar-VB6/assets/54527592/15af89db-ab31-484d-978a-f8458bd88c35" alt="half-circle"></td>
 </tr>
 </table>
+
+<br>
+
+## Appreciation
+If you find this work useful, please support it as a token of appreciation to the author by clicking the ``` ⭐Star ``` button.
 
 <br>
 
