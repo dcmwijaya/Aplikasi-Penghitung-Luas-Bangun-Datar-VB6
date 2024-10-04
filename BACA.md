@@ -1,7 +1,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Aplikasi-Penghitung-Luas-Bangun-Datar-VB6)
-![VB6](https://img.shields.io/badge/6%20programming-%2340099C.svg?&style=flat&logo=visualbasic&logoColor=white)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Aplikasi-Penghitung-Luas-Bangun-Datar-VB6?logo=Codeforces&logoColor=white&color=%23F7DF1E)
+![Project](https://img.shields.io/badge/Project-Desktop-light.svg?style=flat&logo=dotnet&logoColor=white&color=%23F7DF1E)
+![Type](https://img.shields.io/badge/Type-Campus%20Assignment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Aplikasi-Penghitung-Luas-Bangun-Datar-VB6
 <strong>Tugas Pemrograman API</strong><br>
@@ -45,8 +46,8 @@ https://bit.ly/VisualBasic6_Installer
 <th width="420">Validasi</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Aplikasi-Penghitung-Luas-Bangun-Datar-VB6/assets/54527592/d257c31e-a070-4c11-8b27-22e864f30dd8" alt="home"></td>
-<td><img src="https://github.com/devancakra/Aplikasi-Penghitung-Luas-Bangun-Datar-VB6/assets/54527592/7cd25fe3-f2f2-40be-8985-e795e04e959d" alt="validation"></td>
+<td><img src="Documentation/Home.jpg" alt="home"></td>
+<td><img src="Documentation/Validation.jpg" alt="validation"></td>
 </tr>
 </table>
 <table>
@@ -56,9 +57,9 @@ https://bit.ly/VisualBasic6_Installer
 <th width="280">Luas Setengah Lingkaran</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Aplikasi-Penghitung-Luas-Bangun-Datar-VB6/assets/54527592/82e904bb-309c-4d68-b17f-d7d260ce2f93" alt="parallelogram"></td>
-<td><img src="https://github.com/devancakra/Aplikasi-Penghitung-Luas-Bangun-Datar-VB6/assets/54527592/a3f2aac0-b2e9-4cb3-9981-aa6ecb5f1086" alt="rhombus"></td>
-<td><img src="https://github.com/devancakra/Aplikasi-Penghitung-Luas-Bangun-Datar-VB6/assets/54527592/15af89db-ab31-484d-978a-f8458bd88c35" alt="half-circle"></td>
+<td><img src="Documentation/Parallelogram.jpg" alt="parallelogram"></td>
+<td><img src="Documentation/Rhombus.jpg" alt="rhombus"></td>
+<td><img src="Documentation/Half Circle.jpg" alt="half-circle"></td>
 </tr>
 </table>
 
@@ -70,7 +71,7 @@ Jika karya ini bermanfaat bagi anda, maka dukunglah karya ini sebagai bentuk apr
 <br>
 
 ## LISENSI 
-LISENSI MIT - Hak Cipta © 2020 - Devan Cakra Mudra Wijaya
+LISENSI MIT - Hak Cipta © 2020 - Devan C. M. Wijaya
 
 Dengan ini diberikan izin tanpa biaya kepada siapa pun yang mendapatkan salinan perangkat lunak ini dan file dokumentasi terkait perangkat lunak untuk menggunakannya tanpa batasan, termasuk namun tidak terbatas pada hak untuk menggunakan, menyalin, memodifikasi, menggabungkan, mempublikasikan, mendistribusikan, mensublisensikan, dan/atau menjual salinan Perangkat Lunak ini, dan mengizinkan orang yang menerima Perangkat Lunak ini untuk dilengkapi dengan persyaratan berikut:
 
